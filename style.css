@@ -1,9 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Tangerine);
-
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 /* @group General Styles */
 
+
 body {
-	font: 0.75em/1.5em 'Lucida Grande', Geneva, Arial, Verdana, sans-serif;
+	font: 0.75em/1.5em "Josefin Slab",Helvetica,Arial,sans-serif;
 	/*
 	margin-left: 10%;
     margin-right: 10%;
@@ -13,9 +15,6 @@ body {
   position:relative;
   width:1008px;
 	padding: 0;
-	font-family: 'Garamond','Georgia',arial;
-
-		
 }
 
 tr td:first-child {padding-left:0px;}
@@ -131,22 +130,22 @@ a:hover, a:active {
 }
 
 #title h1 {
-	margin: 20px 10px 0 10px;
+	margin: 20px 10px 0px 10px;
 	float: left;
 	font-size: 3em;
 	color:#585858;
-	  font-family: "Josefin Slab",Helvetica,Arial,sans-serif;
+		  font-family: "Josefin Slab",Helvetica,Arial,sans-serif;
+
 	/*color:	#CD5C5C;*/
 /*color:#B22222;*/
 }
 
 #title h2 {
-	margin: 15px 0 0 10px;
+	margin: 2px 5px 0 10px;
 /*	color: #8E8E8E;*/
-	color: #8E8E8E;
+	color: #B2B2B2;
 	float: left;
-		font-size: 1.3em;
-/*	font-style: italic;*/
+		font-size: 1.5em;
 	  font-family: "Josefin Slab",Helvetica,Arial,sans-serif;
 }
 
