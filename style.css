@@ -131,22 +131,23 @@ a:hover, a:active {
 }
 
 #title h1 {
-	margin: 20px 10px 0px 10px;
+	margin: 20px 10px 0 10px;
 	float: left;
 	font-size: 3em;
 	color:#585858;
+	  font-family: "Josefin Slab",Helvetica,Arial,sans-serif;
 	/*color:	#CD5C5C;*/
 /*color:#B22222;*/
 }
 
 #title h2 {
-	margin: 2px 5px 0 10px;
+	margin: 15px 0 0 10px;
 /*	color: #8E8E8E;*/
-	color: #B2B2B2;
+	color: #8E8E8E;
 	float: left;
 		font-size: 1.3em;
-	font-style: italic;
-	   font-family:  "Times New Roman", Times, serif;
+/*	font-style: italic;*/
+	  font-family: "Josefin Slab",Helvetica,Arial,sans-serif;
 }
 
 #content { 
